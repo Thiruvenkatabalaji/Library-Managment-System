@@ -7,16 +7,22 @@ Library Management System is a comprehensive management solution which is comple
  >Why the project is useful?
  - This system provides an login system and registartion for each and every individual student, who can search the avaialable books,issued books and the renewal date with the penality of each book that he/she holds.
 
->Getting Started
+>Getting Started: 
 
 >Prerequisites
- Install python package version 3.10.6
- Connect to your MongoDB atlas for the database.
+ - Install python package version 3.10.6
+ - Connect to your MongoDB atlas for the database.
 
 >User instruction
-1.RUN the python coding using any python complier (Jupyter notebook,spider)
-2.
-
+ 1.RUN the python coding using any python complier (Jupyter notebook,spider)
+ 2.Enter the options number to perfrom the operations
+ 3.Connect your application to your cluster using MongoDB's native drivers.
+ 
+ >Contact
+  - My name : Thiruvenkata Balaji
+  - Project link : 
+ 
+ 
 
 
 
